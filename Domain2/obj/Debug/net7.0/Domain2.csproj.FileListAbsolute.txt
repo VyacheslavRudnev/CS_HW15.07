@@ -1,0 +1,12 @@
+C:\Users\Rudnev V\source\repos\Domain2\bin\Debug\net7.0\Domain2.deps.json
+C:\Users\Rudnev V\source\repos\Domain2\bin\Debug\net7.0\Domain2.dll
+C:\Users\Rudnev V\source\repos\Domain2\bin\Debug\net7.0\Domain2.pdb
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.csproj.AssemblyReference.cache
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.AssemblyInfoInputs.cache
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.AssemblyInfo.cs
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.csproj.CoreCompileInputs.cache
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.dll
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\refint\Domain2.dll
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\Domain2.pdb
+C:\Users\Rudnev V\source\repos\Domain2\obj\Debug\net7.0\ref\Domain2.dll
